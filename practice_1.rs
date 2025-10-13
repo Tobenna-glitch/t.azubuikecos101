@@ -1,0 +1,9 @@
+fn main(){
+     printin!("welcome to cos 101!");
+     printin!("the course larning outcome is as follows");
+     printin!("1. Distinguish between computer and computer programming,/n
+             2. Develop some techniques in computer science./n
+             3. Understand the different area of study in computer science,/n
+             4.Conversant with applications of computer science,/n
+             5. Navigate the career prospects of computer science./n
+             6. Conversant with computer programming concepts.")
