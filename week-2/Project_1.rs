@@ -12,3 +12,4 @@ fn main() {
     println!("Total Amount after {} years: ₦{:.2}", years, amount);
     println!("Compound Interest: ₦{:.2}", compound_interest);
 }
+
