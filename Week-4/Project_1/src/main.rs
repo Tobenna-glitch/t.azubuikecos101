@@ -13,7 +13,7 @@ fn main()
     let a: f64 = input1.trim().parse().expect("please enter a valid number");
     input1.clear();
 
-    println!("Enter the value of c:");
+    println!("Enter the value of b:");
     io::stdin().read_line(&mut input2).expect("Failed to read input");
     let b: f64 = input2.trim().parse().expect("please enter a valid number");
     input2.clear();
