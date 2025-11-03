@@ -11,7 +11,7 @@ fn main() {
         io::stdin()
         .read_line(&mut name)
         .expect("Failed to read input");
-    printlin!("Your name is: {}", name);
+    println!("Your name is: {}", name);
 
     //input age
     println!("\nEnter your age,");
